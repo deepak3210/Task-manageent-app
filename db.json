@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Complete React project",
+      "description": "Work on the task management app",
+      "status": "To Do",
+      "priority": "High",
+      "dueDate": "2024-10-01"
+    },
+    {
+      "id": "bc1b",
+      "title": "Work on API integration",
+      "description": "I have to call an get API for AI Assessment",
+      "dueDate": "2024-09-22",
+      "status": "To Do",
+      "priority": "High"
+    },
+    {
+      "id": "d085",
+      "title": "Testing",
+      "description": "component testing",
+      "dueDate": "2024-09-23",
+      "status": "To Do",
+      "priority": "Medium"
+    }
+  ]
+}

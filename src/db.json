@@ -1,0 +1,13 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Complete React project",
+        "description": "Work on the task management app",
+        "status": "To Do",
+        "priority": "High",
+        "dueDate": "2024-10-01"
+      }
+    ]
+  }
+  
